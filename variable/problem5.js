@@ -1,0 +1,18 @@
+console.log("🅡🅔🅟🅞🅡🅣 🅒🅐🅡🅣");
+let school_name ="🅹🅳 🅲🅾🅻🅻🅴🅶🅴";
+console.log("school_name : "+school_name);
+let student_name = "Gɪᴛᴇsʜ";
+console.log("student_name : "+student_name);
+let Section ="🅰";
+console.log("Section : "+Section);
+let Roll_No =21;
+console.log("Roll_No : "+Roll_No);
+console.log("🅼🅰🆁🆁🅺");
+let 𝐄𝐍𝐆𝐋𝐈𝐒𝐇 =70;
+console.log("𝐄𝐍𝐆𝐋𝐈𝐒𝐇 : "+𝐄𝐍𝐆𝐋𝐈𝐒𝐇);
+let 𝐌𝐀𝐓𝐇 =75;
+console.log("𝐌𝐀𝐓𝐇 : "+𝐌𝐀𝐓𝐇);
+let 𝐒𝐂𝐈𝐄𝐍𝐂𝐄 =72;
+console.log("𝐒𝐂𝐈𝐄𝐍𝐂𝐄 : "+𝐒𝐂𝐈𝐄𝐍𝐂𝐄);
+let Grade ="🅰";
+console.log("🅶🆁🅰🅳🅴 : "+Grade);
